@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/sns-worktime-calculator",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
