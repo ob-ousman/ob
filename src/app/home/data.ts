@@ -1,6 +1,7 @@
 export class Day{
     date: string;
     color: string;
+    circle: string; //pour encercler la date selectionnée
 }
 
 export class Week {

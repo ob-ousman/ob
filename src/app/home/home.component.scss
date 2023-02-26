@@ -6,6 +6,20 @@
     background-color: green;
 }
 
+.white_color {
+    background-color: white;
+}
+
 .col {
     border: 1px solid rgb(116, 112, 112);
+}
+
+.circle_selected_date {
+    font-weight: bold;
+    border-radius: 50px;
+    border: solid 1px black;
+    color: white;
+    text-align: center;
+    display: block;
+    background-color: blue;
 }
